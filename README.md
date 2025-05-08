@@ -1,2 +1,3 @@
 # PDF_Master
-PDF Master is a tool to handle and edit PDFs effectively.
+
+Handling PDFs for free; this is the best tool for use.
